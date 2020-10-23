@@ -3,7 +3,7 @@
 
 def key_for_min_value(hash)
   counter = 0 
-  lowestvalue == nil 
+ 
   while hash[counter]<hash.length 
   p hash[counter]
   
