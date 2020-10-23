@@ -5,7 +5,7 @@ def key_for_min_value(hash)
   counter = 0 
  
   while hash[counter]<hash.length 
-  p hash[counter]
+  if hash[counter] == 
   
 
  counter +=1 
